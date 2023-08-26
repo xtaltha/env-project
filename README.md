@@ -16,7 +16,7 @@ Once that's all done, you can open the file in **[WolvenKit]** and start making 
 
 ## License [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-SA 4.0]
 
-**[env-project]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
+**[env-project]** &copy; 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
 
 _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 
