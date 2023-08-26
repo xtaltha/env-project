@@ -10,7 +10,7 @@ A template repository for a Cyberpunk environmentDefinition/visual mod for use w
 
 You can set up your own mod project by using the _Use this template_ button and selecting ***[Create a new repository](https://github.com/new?template_name=env-project&template_owner=xtaltha)***
 
-After that, make sure to rename the **[env-project.cpmodproj](env-project.cpmodproj)** file to your desired mod name and also change the _Author_ and/or _Email_ fields in the XML cpmodproj to either blank or your real info, along with _Name_ and _Version_ to the appropriate settings.
+After that, make sure to rename the **[env.cpmodproj](env.cpmodproj)** file to your desired mod name and also change the _Author_ and/or _Email_ fields in the XML cpmodproj to either blank or your real info, along with _Name_ and _Version_ to the appropriate settings.
 
 Once that's all done, you can open the file in **[WolvenKit]** and start making your mod! **Remember to create commits frequently**.
 
