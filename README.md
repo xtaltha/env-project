@@ -1,14 +1,14 @@
 <!-- @format -->
 
-# cpmodproj content templates <img align="right" src="https://user-images.githubusercontent.com/99456326/253195160-df589079-e508-4c30-8bd4-f7acebc43187.svg" width="32px">
+# env-project content templates <img align="right" src="https://user-images.githubusercontent.com/99456326/253195160-df589079-e508-4c30-8bd4-f7acebc43187.svg" width="32px">
 
 <sup>REDmodding template repository.</sup>
 
-Numerous templates for different options to format and license your works based on **[cpmodproj]**.
+Numerous templates for different options to format and license your works based on **[env-project]**.
 
 ## Usage
 
-There are many ways modders can use [cpmodproj], but, this focuses on the main ways that modders license their works:
+There are many ways modders can use [env-project], but, this focuses on the main ways that modders license their works:
 
 1. allowing derivative works as long as you (the creator) is credited;
 1. entirely disallowing any derivative works&mdash;unless given permission from you (&mdash;and only from you).
@@ -33,7 +33,7 @@ Either README.md file has in-depth explanations on how to edit them to fit you.
 
 - If the headings can have some contextual images, try to add them as `<img>` tags and `align="right"` them. You can see this effect with the top level heading of, and the license heading below.
 - This is totally personal preference, but try to make your headings capitalized in only sentence-case. "Choosing your license" looks and feels more natural than "Choosing Your License".
-- Make sure to only have one top level heading. You should have no more than the title (e.g. `# cpmodproj`) as a top level heading.
+- Make sure to only have one top level heading. You should have no more than the title (e.g. `# env-project`) as a top level heading.
 
 #### Images
 
@@ -58,10 +58,10 @@ Either README.md file has in-depth explanations on how to edit them to fit you.
 
 ## License [<img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg"><img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/by.svg"> <img align="right" height="16px" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg">][CC BY-NC-SA 4.0]
 
-**[cpmodproj]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
+**[env-project]** © 2023 by **[xtaltha]** is licensed under **[CC BY-NC-SA 4.0]**
 
 _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 
 [CC BY-NC-SA 4.0]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [xtaltha]: https://github.com/xtaltha
-[cpmodproj]: https://github.com/xtaltha/cpmodproj
+[env-project]: https://github.com/xtaltha/cpmodproj
