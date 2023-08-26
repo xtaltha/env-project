@@ -1,6 +1,6 @@
 <!-- @format -->
 
-<sub>_change all instances of placeholder text (e.g. defacto) with your own text. **and don't forget to delete this, along with any other text like it!**_</sub>
+<sub>_change all instances of placeholder text (e.g. defacto/env-project) with your own text. **and don't forget to delete this, along with any other text like it!**_</sub>
 
 # defacto <img align="right" src="https://user-images.githubusercontent.com/99456326/253195160-df589079-e508-4c30-8bd4-f7acebc43187.svg" width="32px">
 
@@ -9,7 +9,7 @@
 <sup>REDmodding mod repository.</sup>
 
 <sub>_put a brief description here&mdash;if you have a nexus brief description you can just copy it here_</sub>  
-defacto does absolutely nothing.
+defacto edits the lighting and weather of Cyberpunk 2077.
 
 <sub>_keep this intact, it's a good way to notify a user as to what they can and can't do with your mod._</sub>  
 <sub>**[You can modify this mod as long as I am credited and it's for non-commercial purposes](#license)**</sub>
@@ -18,7 +18,7 @@ defacto does absolutely nothing.
 
 <sub>_here you should change everything, including the name xtaltha, etc., to fit a descriptive overview of the your mod. **Don't let this placeholder text influence you.**_</sub>
 
-defacto is a mod that does absolutely nothing and serves only to be an example for mod authors to base their own descriptions and mods off of. It is part of the **[cpmodproj]** project, which in turn is made by **[xtaltha]**, a REDmodding organization.
+defacto is a mod that does absolutely nothing and serves only to be an example for mod authors to base their own descriptions and mods off of. It is part of the **[cpmodproj]** project&mdash;this version specifically is under the **[env-project]** moniker, which in turn is made by **[xtaltha]**, a REDmodding organization.
 
 Created to serve the modding community and allow open-source REDmodding to expand, defacto has been made to show off what can be done using **[cpmodproj]**&mdash;which is a template repository to make it easier to create mods that are on GitHub.
 
@@ -75,4 +75,5 @@ _This is an unofficial fan work and is not approved/endorsed by CD PROJEKT RED._
 [WolvenKit]: https://github.com/WolvenKit/WolvenKit
 [xtaltha]: https://github.com/xtaltha
 [cpmodproj]: https://github.com/xtaltha/cpmodproj
-[defacto]: https://github.com/xtaltha/cpmodproj
+[defacto]: https://github.com/xtaltha/env-project
+[env-project]: https://github.com/xtaltha/env-project
