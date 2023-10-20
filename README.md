@@ -8,7 +8,7 @@ Numerous templates for different options to format and license your works based 
 
 ## Usage
 
-There are many ways modders can use [env-project], but, this focuses on the main ways that modders license their works:
+There are many ways modders can use **[env-project]**, but, this focuses on the main ways that modders license their works:
 
 1. allowing derivative works as long as you (the creator) is credited;
 1. entirely disallowing any derivative works&mdash;unless given permission from you (&mdash;and only from you).
